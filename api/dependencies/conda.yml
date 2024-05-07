@@ -1,0 +1,14 @@
+name: housing_env
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pip=23.3.1
+  - pandas=2.1.4
+  - numpy=1.26
+  - seaborn=0.13.1
+  - streamlit=1.29.0
+  - tensorflow=2.15.0
+  - fastapi=0.109.0
+  - pydantic=2.5.3
+  - uvicorn=0.26.0
